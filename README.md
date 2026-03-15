@@ -152,7 +152,3 @@ npm run ios
 - Export diagnostics as JSON
 - Add historical snapshots for comparison
 - Introduce permissions and privacy controls per data category
-
-## License
-
-This project is currently unlicensed. Add a `LICENSE` file if you plan to distribute it publicly.
